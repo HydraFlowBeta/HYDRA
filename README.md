@@ -1,6 +1,5 @@
 
-#How to Use Hydra - Professional Guide
-
+#How to Use Hydra 
 
 Welcome to Hydra! Follow the steps below to properly connect and use the script:
 
